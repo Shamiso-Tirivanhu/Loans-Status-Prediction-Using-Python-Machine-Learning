@@ -33,7 +33,7 @@ This project focuses on developing a predictive model for loan approval status u
 
 
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Loans-Status-Prediction-Using-Python-Machine-Learning/blob/e1d4c7efe419d420758e04e052655a4bcd06a22c/Loan_Status%20and%20Education.png)
 
 ## 3. Dataset Description 
 
