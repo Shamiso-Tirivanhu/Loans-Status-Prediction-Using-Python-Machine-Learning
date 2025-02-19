@@ -24,7 +24,7 @@ Loan Status Prediction is a machine learning project that aims to classify loan 
 
 This project focuses on developing a predictive model for loan approval status using machine learning techniques. By analyzing applicant details such as income, credit history, and loan amount, the model provides an automated decision-making tool for financial institutions.
 
-The diagram below demonstrates the relationship between 
+The diagram below demonstrates the relationship between Loan Status and Married and unmaaried. It depicts that people who are married stand a higher chance of getting a loan as opposed to people who are not married. A plausible reason this might be the case could be that married couples can assist each other in paying back the loan. Whereas, singles might grapple to pay back the loan by themselves.
 
 ![image_alt](https://github.com/Shamiso-Tirivanhu/Loans-Status-Prediction-Using-Python-Machine-Learning/blob/3988c0a19cd53d787625512c9fc542344006b506/Loan%20Status%20and%20Married%20.png)
 
@@ -34,6 +34,10 @@ The diagram below demonstrates the relationship between
 
 
 
+
+
+
+The diagram below illustates the relationship between Loan status and Education. As shown below, Graduates have a higher chance of obtaining a loan as opposed to Non-Graduates. Perhaps the assumption is that a Graduate can pay back the loan since they will be employed, while someone who is not a graduate might fail to pay back the loan.
 
 ![image_alt](https://github.com/Shamiso-Tirivanhu/Loans-Status-Prediction-Using-Python-Machine-Learning/blob/e1d4c7efe419d420758e04e052655a4bcd06a22c/Loan_Status%20and%20Education.png)
 
@@ -77,9 +81,6 @@ The model is evaluated based on:
 
 Accuracy Score which was 79% of thev training data & 83% for testing data
 
-![image_alt](https://github.com/Shamiso-Tirivanhu/Loans-Status-Prediction-Using-Python-Machine-Learning/blob/12df946e532d4e849329d3c1115d43c88d54552e/Converting%20textual%20data%20into%20numerical%20data.png)
-
-![image_alt]()
 
 ## 6. Results & Insights 
 
@@ -98,5 +99,13 @@ The confusion matrix showed a well-balanced classification with minimal false po
 ## 7. Conclusion
 
 This project demonstrates the application of machine learning in financial decision-making, providing a predictive tool for loan approval. The Support Vector Machine (SVM) model proved to be effective, achieving an accuracy of 85%, making it a viable solution for automated loan approval systems.
+
+The diagram below shows the Accuracy Score of training and testing data performance.
+
+- Training data is 79%
+- Testing data is 83%
+
+It can be argued that the model performed relatively well as there is not much ddifference between the accuracy score of the training and testing data.
+
 
 ![image_alt](https://github.com/Shamiso-Tirivanhu/Loans-Status-Prediction-Using-Python-Machine-Learning/blob/2f493b0bef66ca4860bcf9becd366f85648226cb/Accuracy%20score%20of%20SVM.png)
