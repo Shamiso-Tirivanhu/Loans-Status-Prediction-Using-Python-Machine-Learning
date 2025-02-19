@@ -24,6 +24,8 @@ Loan Status Prediction is a machine learning project that aims to classify loan 
 
 This project focuses on developing a predictive model for loan approval status using machine learning techniques. By analyzing applicant details such as income, credit history, and loan amount, the model provides an automated decision-making tool for financial institutions.
 
+The diagram below demonstrates the relationship between 
+
 ![image_alt](https://github.com/Shamiso-Tirivanhu/Loans-Status-Prediction-Using-Python-Machine-Learning/blob/3988c0a19cd53d787625512c9fc542344006b506/Loan%20Status%20and%20Married%20.png)
 
 
