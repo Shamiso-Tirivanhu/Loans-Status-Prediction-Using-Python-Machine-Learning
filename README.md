@@ -24,6 +24,17 @@ Loan Status Prediction is a machine learning project that aims to classify loan 
 
 This project focuses on developing a predictive model for loan approval status using machine learning techniques. By analyzing applicant details such as income, credit history, and loan amount, the model provides an automated decision-making tool for financial institutions.
 
+![image_alt]()
+
+
+
+
+
+
+
+
+![image_alt]()
+
 ## 3. Dataset Description 
 
 The dataset (dataset.csv) contains multiple features such as:
@@ -64,6 +75,10 @@ The model is evaluated based on:
 
 Accuracy Score which was 79% of thev training data & 83% for testing data
 
+![image_alt}()
+
+![image_alt]()
+
 ## 6. Results & Insights 
 
 The Support Vector Machine (SVM) model achieved an accuracy score of 85% on the test dataset. This indicates that the model performs well in distinguishing approved and non-approved loan applications.
@@ -81,3 +96,5 @@ The confusion matrix showed a well-balanced classification with minimal false po
 ## 7. Conclusion
 
 This project demonstrates the application of machine learning in financial decision-making, providing a predictive tool for loan approval. The Support Vector Machine (SVM) model proved to be effective, achieving an accuracy of 85%, making it a viable solution for automated loan approval systems.
+
+![image_alt]()
