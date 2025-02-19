@@ -97,4 +97,4 @@ The confusion matrix showed a well-balanced classification with minimal false po
 
 This project demonstrates the application of machine learning in financial decision-making, providing a predictive tool for loan approval. The Support Vector Machine (SVM) model proved to be effective, achieving an accuracy of 85%, making it a viable solution for automated loan approval systems.
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Loans-Status-Prediction-Using-Python-Machine-Learning/blob/2f493b0bef66ca4860bcf9becd366f85648226cb/Accuracy%20score%20of%20SVM.png)
