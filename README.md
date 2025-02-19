@@ -75,7 +75,7 @@ The model is evaluated based on:
 
 Accuracy Score which was 79% of thev training data & 83% for testing data
 
-![image_alt}(https://github.com/Shamiso-Tirivanhu/Loans-Status-Prediction-Using-Python-Machine-Learning/blob/12df946e532d4e849329d3c1115d43c88d54552e/Converting%20textual%20data%20into%20numerical%20data.png)
+![image_alt](https://github.com/Shamiso-Tirivanhu/Loans-Status-Prediction-Using-Python-Machine-Learning/blob/12df946e532d4e849329d3c1115d43c88d54552e/Converting%20textual%20data%20into%20numerical%20data.png)
 
 ![image_alt]()
 
